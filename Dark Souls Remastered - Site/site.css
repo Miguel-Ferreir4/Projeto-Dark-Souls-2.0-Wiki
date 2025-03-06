@@ -152,7 +152,7 @@ td{
         margin-left: auto;
         width: 100%;
     }
-    .resumo_undead{
+    .resumo_undead, .resumo_bosses, .resumo_classes{
         width: 90%;
     }
     .classes , .bosses{
