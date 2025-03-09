@@ -10,11 +10,28 @@
 
 - HTML
 - CSS
+- Netlify (Hospedagem)
+- Github
 
 ## Execução do site:
 
 - Ao acessar o https://projeto-dark-souls-wiki.netlify.app, você será levado a uma página de login. Logo de cara, é possível entrar na sua conta ou, se for sua primeira visita, criar uma nova. Na hora de se cadastrar, você pode escolher entre dez classes icônicas do universo de Dark Souls, cada uma com suas próprias características e estilos de jogo. Ao logar você será redirecionado para a Wiki do jogo com textos e imagens interativas que mostram mais informações ao serem clicadas.
 
+## Principais páginas e arquivos:
+### Arquivos HTML e CSS
+- Arquivo index.html (página principal)
+- Arquivo login.css (arquivo de estilização do index.html)
+- Arquivo criar_conta.html (página de criar conta)
+- Arquivo registrar.css (arquivo de estilização do Criar_conta.html)
+- Arquivo site-dark-souls-wiki.html (página da sobre a wiki do jogo)
+- Arquivo site.css (arquivo de estilização do site-dark-souls-wiki.html)
+### Pastas
+- arquivos psd (arquivos com o layout das páginas)
+- fonts (fontes que foram utilizadas ao decorrer do site)
+- imagens (imagens usadas durante a criação do site)
+- ∟ complementos (imagens como background, favicons, bordas e molduras que foram utilizadas)
+- ∟ classes (imagens de cada classe do jogo)
+- ∟ bosses (imagens dos bosses que foram mostrados na página da wiki)
 
 ## Créditos:
 
