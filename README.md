@@ -22,8 +22,8 @@
 - Arquivo index.html (página principal)
 - Arquivo login.css (arquivo de estilização do index.html)
 - Arquivo criar_conta.html (página de criar conta)
-- Arquivo registrar.css (arquivo de estilização do Criar_conta.html)
-- Arquivo site-dark-souls-wiki.html (página da sobre a wiki do jogo)
+- Arquivo registrar.css (arquivo de estilização do criar_conta.html)
+- Arquivo site-dark-souls-wiki.html (página sobre a wiki do jogo)
 - Arquivo site.css (arquivo de estilização do site-dark-souls-wiki.html)
 ### Pastas
 - arquivos psd (arquivos com o layout das páginas)
